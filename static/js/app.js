@@ -1,1 +1,1 @@
-const url = "";
+const url = "https://raw.githubusercontent.com/ShaunOchenduszko/interactive-web-visualizations-challenge/main/data/samples.json";
